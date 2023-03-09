@@ -92,7 +92,7 @@ cd eval && python eval_{ }.py
 
 #### 3. SROIE
 
-Return the following entities in order: company , address , date , total.
+Return the following entities in order: company , address , total , date.
 
 ![](https://user-images.githubusercontent.com/111342294/223933472-7dc22ea7-2297-4cea-a9e5-0ffd949a9073.png)
 
