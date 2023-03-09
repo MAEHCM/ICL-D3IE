@@ -1,10 +1,10 @@
 ## ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction
 
 ## Table of contents
-* [Overview](#overview)
 * [Installation](#installation)
 * [Datasets](#datasets)
-* [Tuning and Testing](#tuning-and-testing)
+* [Predict](#predict)
+* [Eval](#eval)
 * [Results](#results)
 
 
