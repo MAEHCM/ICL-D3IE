@@ -75,7 +75,30 @@ cd eval && python eval_{ }.py
 
 ### Visualize the results
 
+#### 1. CORD 
+
 ![](https://user-images.githubusercontent.com/111342294/223915171-d0fabd21-3508-476d-8fa3-5feff61c8730.png)
+
+![](https://user-images.githubusercontent.com/111342294/223932814-7265a731-b93a-4b1e-a204-77b5762a4db2.png)
+
+![](https://user-images.githubusercontent.com/111342294/223932985-f39fd0c9-b0ca-4a61-bc9a-39a7d0b09531.png)
+
+#### 2. FUNSD
+
+![](https://user-images.githubusercontent.com/111342294/223934418-87442fcd-e6d4-456b-b470-c37d9597fd0d.png)
+
+![](https://user-images.githubusercontent.com/111342294/223934719-3430703a-6812-41ec-8d37-c0f6816286e6.png)
+
+
+#### 3. SROIE
+
+Return the following entities in order: company , address , date , total.
+
+![](https://user-images.githubusercontent.com/111342294/223933472-7dc22ea7-2297-4cea-a9e5-0ffd949a9073.png)
+
+![](https://user-images.githubusercontent.com/111342294/223933642-ee28049a-8f42-42f9-831c-325719234df4.png)
+
+
 
 
 
