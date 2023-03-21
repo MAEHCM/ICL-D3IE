@@ -102,9 +102,7 @@ Return the following entities in order: company , address , total , date.
 
 
 
-https://user-images.githubusercontent.com/111342294/226544544-39f9cb5a-473c-4fe5-bf3b-18fe598016be.mp4
-
-
+![](https://user-images.githubusercontent.com/111342294/226547280-cf598ec3-d50c-41fe-8641-367fcadb45e9.GIF)
 
 
 
