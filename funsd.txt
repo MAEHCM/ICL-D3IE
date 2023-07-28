@@ -1,0 +1,75 @@
+sample 1
+"GEOGRAPHY" : header
+"REGION" : header
+"+ - 10% Contingency Final Report Inc." : header
+"Director" : question
+"Manager" : question
+"Final Written presentation w/ o 5/ 25" : other
+"Key Criteria For Analysis" : question
+"To determine if the NSS concept/ product is viable based upon smokers reactions." : other
+"Research Limitations" : question
+"Information from this exploratory research is directional only." : other
+"Cost Estimate" : question
+"Research Firm" : question
+"All smokers will be 18 years and over and smoke 10+ cigarettes per day." : other
+"STORAGE RECOMMENDATIONS" : question
+"[MOISTURE]" : answer
+"[] OTHER" : answer
+"SAFETY" : other
+"(SUGGESTED" : other
+"PROCEDURE" : other
+"SOLUBILITY" : question
+"(See SOP FOX Biological Solutions)" : answer
+"ACUTE CADCOVASCULAR" : question
+"Aug." : question
+"(submit by 30 days after event)" : other
+"YES" : question
+"#CASES" : header
+
+sample 2
+"TO:" : question
+"S.P. Zolot" : answer
+"SUBJECT:" : question
+"(ONLY PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)" : question
+
+sample 3
+"Attendence" : other
+"140" : other
+"QUANTITY REQUIRED" : question
+"CUSTOMER SHIPPING NUMBER" : question
+"DATE FORWARDED TO PROMOTION SERVICES:" : question
+"REQFORM" : other
+"01/17/97" : other
+
+sample 4
+"DISTRIBUTION" : header
+"DIRECT ACCOUNTS PROJECTED TO ACCEPT WHICH REFUSED ONE OR MORE PACKING" : other
+"PACKING" : question
+"BASIC" : question
+"G.P.C" : question
+"$" : other
+
+sample 5
+"MARKETING RESEARCH PROJECT APPROVAL" : header
+"Marketing Research" : question
+"Group Product" : question
+
+ocr text{text:"Name of Account",Box:[369 481 459 497],entity:question}{text:"Ind/ Lor Volume",Box:[494 472 537 503],entity:question}{text:"Number of Stores",Box:[563 477 619 505],entity:question}{text:"Meijer Gas",Box:[68 510 123 524],entity:answer}{text:"245/ 19",Box:[208 509 245 521],entity:answer}
+
+Q:{text:"SOLVENT",Box:[485 300 526 317],entity:header}{text:"☑",Box:[538 303 552 317],entity:answer}{text:"DMSC",Box:[554 302 579 317],entity:question}{text:"☐ WATER",Box:[588 303 637 317],entity:question}{text:"CONCENTRATION 1mgimit",Box:[75 327 177 342],entity:question}{text:".5",Box:[352 332 369 346],entity:answer}{text:"☐ OTHER",Box:[538 328 585 342],entity:question}{text:"S. TYPHIMURIUM",Box:[75 370 146 385],entity:question}{text:"TA1535",Box:[278 373 309 384],entity:header}{text:"TA100",Box:[405 374 429 384],entity:header}{text:"(-) 9",Box:[249 388 276 399],entity:question}, think about the text's meaning step by step?
+A: "SOLVENT" is a header indicating the type of solvent used."☑" is an answer indicating that the solvent used is DMSC."DMSC" is a question asking what kind of solvent was used."☐ WATER" is a question asking if water was used as a solvent."CONCENTRATION 1mgimit" is a question asking what the concentration of the solvent is. ".5" is an answer indicating the concentration of the solvent is .5. "☐ OTHER" is a question asking if any other solvents were used. "S. TYPHIMURIUM" is a question asking what the sample being tested is. "TA1535", "TA100", are headers indicating the types of tests being performed. "(-) 9" is a question asking what the result of the test is. 
+
+Q:{text:"KOOL",Box:[54 41 100 54],entity:question}{text:"0595- 529- 1510 -0",Box:[58 55 193 72],entity:answer}{text:"PROJECT NO.",Box:[430 35 527 55],entity:question}{text:"1987- 144- K",Box:[558 31 653 51],entity:other}{text:"DESCRIPTION:",Box:[54 107 155 126],entity:question}{text:"KMDP ANALYSIS UTILIZING BLACK SWITCHING STUDY DATA",Box:[197 100 625 125],entity:answer}{text:"MR PERSONNEL:",Box:[55 179 165 196],entity:question}{text:"C. B. Pugh",Box:[200 177 278 195],entity:answer}{text:"SUPPLIER:",Box:[54 224 132 238],entity:question}{text:"Market Facts",Box:[200 218 308 235],entity:answer}{text:"AUTHORIZED COST:",Box:[55 262 194 279],entity:question}{text:"12, 500 (10- 15- 87)",Box:[198 258 372 280],entity:answer}{text:"CARRYOVER TO 1988 -- 0",Box:[460 275 659 296],entity:other}{text:"RELEASED TO ACCTG",Box:[75 517 151 551],entity:question}{text:"PAID OUT OF 1987 BUDGET",Box:[292 509 389 548],entity:question}{text:"CUMULATIVE",Box:[553 527 637 545],entity:question}{text:"JAN",Box:[195 568 227 583],entity:answer}{text:"466024372",Box:[548 884 671 906],entity:other}{text:"PRODUCED FROM B&W WEB SITE",Box:[5 950 228 970],entity:other}{text:"466024372",Box:[678 950 744 968],entity:other},think spatial location and the relationship for label selection?
+A: "KOOL" has a Box of [54 41 100 54] and is located in the upper left corner, so it can be labeled as "question".
+"0595- 529- 1510 -0" has a Box of [58 55 193 72] and is located on the below of "KOOL" question, so it can be labeled as "answer".
+"PROJECT NO." has a Box of [430 35 527 55] and is located at the top right corner, so it can be labeled as "question".
+"1987- 144- K" has a Box of [558 31 653 51] and is located on the right of "PROJECT NO." question, so it can be labeled as "other".
+"DESCRIPTION:" has a Box of [54 107 155 126] and is located below the "KOOL" question, so it can be labeled as "question".
+
+Q:if ":" in text,it labeled as question,for example?
+A:Yes, if ":" is present in the text, it can be labeled as a question. For example, "Study Name:" with Box:[106 120 189 136] and can be labeled as question.
+
+Q:{text:"ACUTE TOXICITY IN MICE",Box:[295 56 512 79]}{text:"COMPOUND",Box:[84 109 136 119]},selection label for all texts?
+A:{text:"ACUTE TOXICITY IN MICE",Box:[295 56 512 79],entity:header}{text:"COMPOUND",Box:[84 109 136 119],entity:question}
+
+Q:
