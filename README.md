@@ -1,5 +1,8 @@
 ## ICL-D3IE: In-Context Learning with Diverse Demonstrations Updating for Document Information Extraction
 
+Congratulations on our paper being accepted by ICCV 2023! 
+We will continue to update the repository.
+
 ## Table of contents
 * [Installation](#installation)
 * [Datasets](#datasets)
