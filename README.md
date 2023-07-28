@@ -100,12 +100,3 @@ Return the following entities in order: company , address , total , date.
 ![](https://user-images.githubusercontent.com/111342294/223933472-7dc22ea7-2297-4cea-a9e5-0ffd949a9073.png)
 
 ![](https://user-images.githubusercontent.com/111342294/223933642-ee28049a-8f42-42f9-831c-325719234df4.png)
-
-#### Deployment
-
-
-
-![](https://user-images.githubusercontent.com/111342294/226547280-cf598ec3-d50c-41fe-8641-367fcadb45e9.GIF)
-
-
-
